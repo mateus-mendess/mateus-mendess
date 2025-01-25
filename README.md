@@ -1,8 +1,12 @@
+<h1 align="left">Mendes💻</h1>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">👋 Olá! Sou Mateus Mendes.<br>💻 Habilidades:<br> - Python<br>-  PostgreSQL<br>- Arquitetura MVC<br>- Git e GitHub<br>👨‍💻 Atuação: Desenvolvedor Backend<br>🎓 Graduação: Estudante do 4º período de Sistemas de Informação<br>📚 Interesses: Estrutura de dados, algoritmos e boas práticas de desenvolvimento</p>
+<p align="left">Sou um desenvolvedor back-end em constante evolução, construindo minha jornada no mundo digital com Python e PostgreSQL. Cada linha de código é uma oportunidade de resolver problemas reais. Atualmente estou cursando Sistemas de Informação no CESMAC. Meu objetivo é crescer e conquistar reconhecimento no mundo do desenvolvimento back-end, sempre com a mentalidade de que a evolução contínua é a chave para alcançar grandes resultados.</p>
 
 ###
 
@@ -46,9 +50,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mateus-mendess/mateus-mendess/output/snake.svg" alt="Snake animation" />
 
 ###

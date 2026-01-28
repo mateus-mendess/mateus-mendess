@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor back-end em constante evolução, construindo minha jornada no mundo digital com Python e PostgreSQL. Cada linha de código é uma oportunidade de resolver problemas reais. Atualmente estou cursando Sistemas de Informação no CESMAC. Meu objetivo é crescer e conquistar reconhecimento no mundo do desenvolvimento back-end, sempre com a mentalidade de que a evolução contínua é a chave para alcançar grandes resultados.</p>
+<p align="left">Sou desenvolvedor back-end com foco em Java e Spring Boot, atuando na construção de aplicações organizadas, seguras e alinhadas a boas práticas de desenvolvimento. Tenho experiência com API RESTful, Spring MVC, Spring Security, integração com PostgreSQL e versionamento de código com Git e GitHub.
+
+Atualmente curso Sistemas de Informação no CESMAC e busco evoluir continuamente no desenvolvimento back-end, aprofundando meus conhecimentos em arquitetura de software e no ecossistema Spring.</p>
 
 ###
 
@@ -39,7 +41,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-mendess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus-mendess&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-mendess&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150" />
 </div>
 
 ###
